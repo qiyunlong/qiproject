@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Downloads/demendanalyze/demendanalyze.iml" filepath="$USER_HOME$/Downloads/demendanalyze/demendanalyze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demendanalyze/demendanalyze.iml" filepath="$PROJECT_DIR$/demendanalyze/demendanalyze.iml" />
     </modules>
   </component>
 </project>
