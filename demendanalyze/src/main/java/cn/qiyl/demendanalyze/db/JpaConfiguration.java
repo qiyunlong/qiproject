@@ -55,6 +55,7 @@ public class JpaConfiguration {
     }
 
     private Map<String, Object> getVendorProperties(){
+        new String();
         return jpaProperties.getHibernateProperties(new HibernateSettings());
     }
 
